@@ -8,6 +8,7 @@
 
 * [Proyecto Final - Avance 1](Proyecto_Final_Avance-1.ipynb)
 * [Proyecto Final - Avance 2](Proyecto_Final_Avance-2.ipynb)
+* [proyecto Final - Avance Semanal 4](Actividad_Semanal-4/Actividad_Semanal-4.ipynb)
 
 ----
 > **_NOTE:_** The notebooks in this repository where created with Jupyter notebook through Anaconda, Python 3.10.4
